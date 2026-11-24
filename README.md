@@ -17,10 +17,10 @@ I'm Rafiul Talukdar, a dedicated MERN Stack Developer with a strong focus on cre
 ---
 ### 🌐Connect Me:
 <p>
-    <a href="https://www.linkedin.com/in/rafiultalukdar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/rafiultalukdar9/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:rafiultalukdar007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
     <a href="https://discord.com/users/1440268613520199762" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
-    <a href="https://x.com/rafiultalukdar" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+    <a href="https://x.com/rafiultalukdar9" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
 </p>
 
 ---
@@ -70,7 +70,7 @@ I'm Rafiul Talukdar, a dedicated MERN Stack Developer with a strong focus on cre
 ### 💻 GitHub Analytics:
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=rafiultalukdar1&theme=tokyonight&starting_year=2021&timezone=Asia%2FDhaka" />
+  <img src="https://streak-stats.demolab.com/?user=rafiultalukdar9&theme=tokyonight&starting_year=2021&timezone=Asia%2FDhaka" />
 </p>
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafiultalukdar1&theme=dark&background=000000&langs_count=20)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafiultalukdar9&theme=dark&background=000000&langs_count=20)
